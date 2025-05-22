@@ -1,0 +1,4 @@
+1#income#Salary#50000.0#2025-05-23
+2#expense#Rent#15000.0#2025-05-23
+3#expense#Food#5000.0#2025-05-23
+4#income#Internship#12000.0#2025-05-23
